@@ -14,7 +14,7 @@
 Hi, my name is Nick. I am a Full Stack Developer at R8 Digital working with companies to develop elegant, practical, and unique web and mobile applications. Outside of tech I am an avid FPS gamer & part time music producer.
 
 
-<a href="https://www.linkedin.com/in/nicolasmrodriguez/" rel="some text">![linkedin](https://image.flaticon.com/icons/png/512/174/174857.png =30x30)</a>
+<a href="https://www.linkedin.com/in/nicolasmrodriguez/" rel="some text">![linkedin](https://image.flaticon.com/icons/png/512/174/174857.png)</a>
 
 
 
