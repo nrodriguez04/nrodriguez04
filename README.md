@@ -41,7 +41,7 @@ Currently learning: Java
 - Learning new things 📚
 
 
-Sidenote: I learned markup just to make this look nice, please tell me it worked...
+Sidenote: I learned markdown just to make this look nice, please tell me it worked...
 
 
 
