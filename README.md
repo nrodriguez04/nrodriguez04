@@ -33,12 +33,12 @@ Currently learning: Java
 
 ### Hobbies
 ***
--Working on cars 🏎️
--Making music 🎶
--Video Games | Streaming 🔫
--Working out 🏋🏼
--Hanging out with friends 🍻
--Learning new things 📚
+- Working on cars 🏎️
+- Making music 🎶
+- Video Games | Streaming 🔫
+- Working out 🏋🏼
+- Hanging out with friends 🍻
+- Learning new things 📚
 
 
 Sidenote: I learned markup just to make this look nice, please tell me it worked...
