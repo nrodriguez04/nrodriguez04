@@ -30,6 +30,12 @@ Currently learning: Java
 > R8 Digital - Freelance Developer
 >> Thinkful Coding Bootcamp - Student
 
+### Highlighted Projects 
+***
+> R8 Digital (Web Application)
+> Mounier Clothing (Web Application)
+> JDMHiro (Ecommerce web application)
+
 
 ### Hobbies
 ***
