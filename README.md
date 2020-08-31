@@ -32,9 +32,9 @@ Currently learning: Java
 
 ### Highlighted Projects 
 ***
-1. R8 Digital (Web Application) [r8digital](https://github.com/nrodriguez04/r8-digital-application)
-2. Mounier Clothing (Web Application) [mounier](https://github.com/nrodriguez04/mounierclothing)
-3. JDMHiro (Ecommerce web application) [jdmhiro](https://github.com/nrodriguez04/jdmhiro)
+1. [R8 Digital](https://github.com/nrodriguez04/r8-digital-application) (Web Application)
+2. [Mounier](https://github.com/nrodriguez04/mounierclothing) (Web Application)
+3. [JDMHiro](https://github.com/nrodriguez04/jdmhiro) (Ecommerce web application) 
 
 
 ### Hobbies
