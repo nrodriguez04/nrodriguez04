@@ -1,7 +1,7 @@
 
 # Nick Rodriguez | @congratsnico
 
-![coverphoto](https://i.ibb.co/CVynvpW/githubcover.jpg)
+![coverphoto](https://ibb.co/wr66yxk)
 
 >~~Hello World~~
 >>No, that's not it.
