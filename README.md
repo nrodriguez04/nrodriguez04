@@ -19,9 +19,9 @@
 
 
 
-### Stack it 💻
+### Tech Stack 💻
 ***
-React . Node . Express . MongoDB . Angular . HTML . CSS . SASS . Bootstrap . jQuery . Gulp . Redux . Parcel 
+React . Node . Express . Next . Solidity . Hardhat . CSS . SASS . Bootstrap . Tailwind
 
 Currently learning: Java
 
@@ -48,8 +48,6 @@ Currently learning: Java
 - Hanging out with friends 🍻
 - Learning new things 📚
 
-
-Sidenote: I learned markdown just to make this look nice, please tell me it worked...
 
 
 
