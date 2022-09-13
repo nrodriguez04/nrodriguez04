@@ -27,8 +27,10 @@ Currently learning: Java
 
 ### Experience 
 ***
-> R8 Digital - Freelance Developer
->> Thinkful Coding Bootcamp - Student
+> R8 Digital - Freelance Developer (2019-2022)
+>> Florida International University - Bachelors of Arts in Computer Science (Grad. 2024)
+>>> Trinity Valley Community College -Associate of Arts in Computer Science (Grad. 2022)
+>>>> Thinkful Coding Bootcamp - Full Stack Developer Certification (Grad. 2019)
 
 ### Highlighted Projects 
 ***
