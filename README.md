@@ -1,5 +1,5 @@
 
-# Nick Rodriguez | @congratsnico
+# Nicolas Rodriguez |
 
 ![coverphoto](https://i.ibb.co/k6ccKW7/github-Banner.png)
 
