@@ -21,22 +21,21 @@
 
 ### Tech Stack 💻
 ***
-React . Node . Express . Next . Solidity . Hardhat . CSS . SASS . Bootstrap . Tailwind
+React . Node . Express . Next . Solidity . Hardhat . CSS . SASS . Bootstrap . MongoDB . Java . Python 
 
-Currently learning: Java
 
 ### Experience 
 ***
-> R8 Digital - Freelance Developer (2019-2022)
+> Koral Digital - Freelance Developer (2023-Present)
 >> Florida International University - Bachelors of Arts in Computer Science (Grad. 2024)
 >>> Trinity Valley Community College -Associate of Arts in Computer Science (Grad. 2022)
 >>>> Thinkful Coding Bootcamp - Full Stack Developer Certification (Grad. 2019)
 
 ### Highlighted Projects 
 ***
-1. [R8 Digital](https://github.com/nrodriguez04/r8-digital-application) (Web Application)
-2. [Mounier](https://github.com/nrodriguez04/mounierclothing) (Web Application)
-3. [JDMHiro](https://github.com/nrodriguez04/jdmhiro) (Ecommerce web application) 
+1. [Koral Digital](https://github.com/nrodriguez04/koraldigital) (Frontend Web Application)
+2. [Estate](https://github.com/nrodriguez04/EstateMERN) (MERN Stack Web Application)
+3. [JDMHiro](https://github.com/nrodriguez04/jdmhiroV2) (ECommerce Web application) 
 
 
 ### Hobbies
