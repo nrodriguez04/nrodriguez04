@@ -26,10 +26,11 @@ React . Node . Express . Next . Solidity . Hardhat . CSS . SASS . Bootstrap . Mo
 
 ### Experience 
 ***
-> Koral Digital - Freelance Developer (2023-Present)
->> Florida International University - Bachelors of Arts in Computer Science (Grad. 2024)
->>> Trinity Valley Community College -Associate of Arts in Computer Science (Grad. 2022)
->>>> Thinkful Coding Bootcamp - Full Stack Developer Certification (Grad. 2019)
+> Mining Syndicate - Facility Operations Specialist/Back-end Engineer (2023-Present) 
+>> Koral Digital - Freelance Developer (2023-Present)
+>>> Florida International University - Bachelors of Arts in Computer Science (Grad. 2024)
+>>>> Trinity Valley Community College -Associate of Arts in Computer Science (Grad. 2022)
+>>>>> Thinkful Coding Bootcamp - Full Stack Developer Certification (Grad. 2019)
 
 ### Highlighted Projects 
 ***
