@@ -1,8 +1,6 @@
 
 # Nicolas Rodriguez |
 
-![coverphoto](https://i.ibb.co/k6ccKW7/github-Banner.png)
-
 >~~Hello World~~
 >>No, that's not it.
 >>>~~Hey what's up?~~
